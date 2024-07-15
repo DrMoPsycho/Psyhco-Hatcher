@@ -30,7 +30,7 @@ Welcome to **Psycho Hatcher** – an advanced macro tool for Pet Simulator 99, d
 - **Trusted Members**: Rely on a network of trustworthy individuals.
 
 Join us now to take your PS99 experience to the next level!
-[Join our Discord](https://discord.gg/hRR3HpJR5h)
+<a href="https://discord.gg/hRR3HpJR5h" target="_blank">Join our Discord</a>
 
 ## 🌐 Our Official Website:
-[Psycho Hatcher](https://psychohatcher.com/)
+<a href="https://psychohatcher.com/" target="_blank">Psycho Hatcher</a>
