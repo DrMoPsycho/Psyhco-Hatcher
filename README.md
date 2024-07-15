@@ -22,6 +22,7 @@ Welcome to **Psycho Hatcher** – an advanced macro tool for Pet Simulator 99, d
 - **Multi-Instance Support**: Run multiple instances seamlessly.
 - **Clicker**: Enhance your clicking efficiency.
 - **Tiny Task**: Automate small tasks effortlessly.
+- **Fusing Pets**: Automate Fusing withour effort.
 
 ## 🏆 Perks 🏆
 - **Constant Updates**: Stay current with regular updates.
