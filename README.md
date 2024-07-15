@@ -1,6 +1,4 @@
-Sure, here's a powerful and engaging README for the GitHub page of Psycho Hatcher:
 
----
 
 # Psycho Hatcher
 
